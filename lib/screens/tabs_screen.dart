@@ -14,7 +14,7 @@ class _TabsScreenState extends State<TabsScreen> {
       'title': 'Categories',
     },
     {
-      'page': FavouriteScreen(),
+      'page': FavouritesScreen(),
       'title': 'Favvourites',
     },
   ];
